@@ -21,13 +21,13 @@ VALUES
 
 INSERT INTO "word" ("id", "language_id", "original", "translation", "next")
 VALUES
-  (1, 1, 'Wah Gwaan', 'Whats up', 2),
-  (2, 1, 'Irie', 'Alright', 3),
+  (1, 1, 'Wah Gwaan', 'whats up', 2),
+  (2, 1, 'Irie', 'alright', 3),
   (3, 1, 'Yah mon', 'no problem', 4),
   (4, 1, 'bomboclaat', 'toilet paper', 5),
-  (5, 1, 'Suss', 'Gossip', 6),
+  (5, 1, 'Suss', 'gossip', 6),
   (6, 1, 'Stush', 'stuck up', 7),
-  (7, 1, 'Rawtid', 'Wow', 8),
+  (7, 1, 'Rawtid', 'wow', 8),
   (8, 1, 'One love', 'unity', null);
 
 UPDATE "language" SET head = 1 WHERE id = 1;

@@ -181,13 +181,13 @@ describe("User Endpoints", function () {
           name: "Patwa",
           total_score: 0,
           words: [
-            { original: "Wah Gwaan", translation: "Whats up" },
-            { original: "Irie", translation: "Alright" },
+            { original: "Wah Gwaan", translation: "whats up" },
+            { original: "Irie", translation: "alright" },
             { original: "Yah mon", translation: "no problem" },
             { original: "bomboclaat", translation: "toilet paper" },
-            { original: "Suss", translation: "Gossip" },
+            { original: "Suss", translation: "gossip" },
             { original: "Stush", translation: "stuck up" },
-            { original: "Rawtid", translation: "Wow" },
+            { original: "Rawtid", translation: "wow" },
             { original: "One love", translation: "unity" },
           ],
         };
