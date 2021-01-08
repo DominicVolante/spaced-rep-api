@@ -6,7 +6,7 @@ TRUNCATE
 INSERT INTO "user" ("id", "username", "name", "password")
 VALUES
   (
-    2,
+    1,
     'guest',
     'Guest',
     '$2a$10$fCWkaGbt7ZErxaxclioLteLUgg4Q3Rp09WW0s/wSLxDKYsaGYUpjG'
